@@ -1,9 +1,10 @@
-## Hi there 👋
+## 팀 개발을 위한 Git hub 시작하기 개정판
 
-<!--
-**a86151632-hub/a86151632-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### : octocat: 안녕하세요? 고양이 입니다.
 
-Here are some ideas to get you started:
+지금 열심히 git hub 업데이트 하는 중입니다
+모두 함께 화이팅
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
